@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,2,"???"]},{"code":401,"indent":0,"parameters":["歡迎來到開門者。"]},{"code":101,"indent":0,"parameters":["",0,0,2,"???"]},{"code":401,"indent":0,"parameters":["其實原本是想要做類似夢日記的逛房間遊戲的..."]},{"code":101,"indent":0,"parameters":["",0,0,2,"???"]},{"code":401,"indent":0,"parameters":["但是因為時間的關係做的不是很完善，真的非常抱歉orz"]},{"code":101,"indent":0,"parameters":["",0,0,2,"???"]},{"code":401,"indent":0,"parameters":["現在能做到的只有隨機進入房間以及一些簡單的互動"]},{"code":101,"indent":0,"parameters":["",0,0,2,"???"]},{"code":401,"indent":0,"parameters":["畫面上能看到的所有素材都是自己畫的"]},{"code":101,"indent":0,"parameters":["",0,0,2,"???"]},{"code":401,"indent":0,"parameters":["感覺不是動態而是另類的靜態展了呢"]},{"code":101,"indent":0,"parameters":["",0,0,2,""]},{"code":401,"indent":0,"parameters":["希望你能看的開心"]},{"code":0,"indent":0,"parameters":[]}],"name":"開場","switchId":1,"trigger":1},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
